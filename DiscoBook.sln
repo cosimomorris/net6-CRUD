@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscoBookWeb", "DiscoBookWeb\DiscoBookWeb.csproj", "{2DD4AB83-9FE6-4401-B525-B425A18D1841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DD4AB83-9FE6-4401-B525-B425A18D1841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD4AB83-9FE6-4401-B525-B425A18D1841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD4AB83-9FE6-4401-B525-B425A18D1841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD4AB83-9FE6-4401-B525-B425A18D1841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEE3B85C-C10F-4B69-B14B-E848A9C84B49}
+	EndGlobalSection
+EndGlobal
