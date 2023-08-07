@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2DD4AB83-9FE6-4401-B525-B425A18D1841}|Default" GitUserInfo="UsingGIT">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiscoBookWeb/Properties/launchSettings.json">
+    <Files>
+      <File FileName="DiscoBookWeb/wwwroot/js/site.js" Line="1" Column="1" />
+      <File FileName="DiscoBookWeb/Program.cs" Line="1" Column="1" />
+      <File FileName="DiscoBookWeb/DiscoBookWeb.csproj" Line="1" Column="1" />
+      <File FileName="DiscoBookWeb/Properties/launchSettings.json" Line="21" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DiscoBook" expanded="True">
+            <Node name="DiscoBookWeb" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DiscoBookWeb PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
