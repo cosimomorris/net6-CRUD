@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/DiscoBookWeb.bundle.scp.css"
     },
     {
+      "Id": "/Users/g360admin/Documents/GitHub/net6-CRUD/DiscoBookWeb/wwwroot/css/bootswatchTheme.css",
+      "PackagePath": "staticwebassets/css/bootswatchTheme.css"
+    },
+    {
       "Id": "/Users/g360admin/Documents/GitHub/net6-CRUD/DiscoBookWeb/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

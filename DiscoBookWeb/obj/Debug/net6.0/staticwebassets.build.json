@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RQGf6X1f/ss3bComGc6s3erl1udutYUPiZgBuci1R1I=",
+  "Hash": "IsznIytjsqzN0l8xmx12bCYdPvkMEh/yShR4gcDcSfA=",
   "Source": "DiscoBookWeb",
   "BasePath": "_content/DiscoBookWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/g360admin/Documents/GitHub/net6-CRUD/DiscoBookWeb/obj/Debug/net6.0/scopedcss/projectbundle/DiscoBookWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/g360admin/Documents/GitHub/net6-CRUD/DiscoBookWeb/wwwroot/css/bootswatchTheme.css",
+      "SourceId": "DiscoBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/g360admin/Documents/GitHub/net6-CRUD/DiscoBookWeb/wwwroot/",
+      "BasePath": "_content/DiscoBookWeb",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootswatchTheme.css"
     },
     {
       "Identity": "/Users/g360admin/Documents/GitHub/net6-CRUD/DiscoBookWeb/wwwroot/css/site.css",

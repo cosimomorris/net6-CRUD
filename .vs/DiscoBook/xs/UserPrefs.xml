@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{2DD4AB83-9FE6-4401-B525-B425A18D1841}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiscoBookWeb/Controllers/CategoryController.cs">
+    <Files>
+      <File FileName="DiscoBookWeb/Program.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="DiscoBookWeb/Controllers/CategoryController.cs" Line="26" Column="40" />
+      <File FileName="DiscoBookWeb/Views/Category/Index.cshtml" Line="33" Column="13" />
+      <File FileName="DiscoBookWeb/Views/Shared/_Layout.cshtml" Line="26" Column="124" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DiscoBook">
+            <Node name="DiscoBookWeb">
+              <Node name="Controllers" expanded="True">
+                <Node name="CategoryController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Views">
+                <Node name="Category" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DiscoBookWeb PreferredExecutionTarget="/Applications/Brave Browser.app" />
+</Properties>

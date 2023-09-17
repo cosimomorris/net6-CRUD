@@ -14,6 +14,7 @@ public class Program
         builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
             builder.Configuration.GetConnectionString("DefaultConnection")
             ));
+        builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 
         var app = builder.Build();
 
